@@ -1,2 +1,7 @@
-requests>=2.28.0
-pytest-playwright>=0.10.0
+pytest==8.3.5
+pytest-base-url==2.1.0
+pytest-playwright==0.7.0
+pytest-xdist==3.6.1
+python-slugify==8.0.4
+requests==2.32.3
+selenium==4.31.0
