@@ -31,6 +31,12 @@ Before running the project, make sure the following are installed:
 
 ---
 
+## ⚙️ Test Plan Document
+Test docs can be found at following path 
+
+- backend/docs/test_plan.pdf
+---
+
 ## 📦 Project Setup
 
 ### 🖼 Frontend
