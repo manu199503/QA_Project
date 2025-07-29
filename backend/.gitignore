@@ -137,6 +137,3 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-frontend/tests/__pycache__/
-backend/tests/__pycache__/
