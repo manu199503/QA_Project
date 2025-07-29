@@ -129,8 +129,8 @@ npm start
 
 ### 3. Run All Tests
 
-Go to the following path and run the pytest files .
-git/QA_Project/frontend and run the below pytest command
+Go to the following path and run the pytest files : 
+git/QA_Project/frontend and git/QA_Project/backend and run the below pytest command to run all the testcases
 
 ```bash
 pytest -v tests/
