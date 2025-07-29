@@ -111,7 +111,7 @@ MongoDB is required to run the backend.
 ```bash
 python3 -m venv selenium-venv
 source selenium-venv/bin/activate
-pip install -r tests/requirements.txt
+pip install -r tests/requirements.txt ( Run the requirements.txt file by following the path backend/tests/requirements.txt)
 ```
 
 ### 2. Run Frontend & Backend (MongoDB must be running)
@@ -129,16 +129,12 @@ npm start
 
 ### 3. Run All Tests
 
+Go to the following path and run the pytest files .
+git/QA_Project/frontend and run the below pytest command
+
 ```bash
 pytest -v tests/
 ```
-
-Or run a specific test:
-
-```bash
-pytest tests/login/test_login_positive.py::test_login_success
-```
-
 
 ---
 
